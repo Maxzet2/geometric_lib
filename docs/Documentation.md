@@ -204,3 +204,5 @@ FAILED (failures=2)
 1. Коммит [9392d3d](6880d8070d0f7fa3ff144ea45393e88d66aa3446): в этом коммите добавлен файл [Rectanlge.py](https://github.com/Maxzet2/geometric_lib/blob/74c9d80940515a798d66c1a5df37b69dfabd4e8b/rectangle.py).
 2. Коммит [7eb345e](https://github.com/KulEDmitr/geometric_lib/commit/28c1ea176467227b617e8176e0f0e4377e42ba71): в этом коммите были добавлины файлы [Triangle.py](https://github.com/Maxzet2/geometric_lib/blob/74c9d80940515a798d66c1a5df37b69dfabd4e8b/triangle.py) и изменен файл [Rectanlge.py](https://github.com/Maxzet2/geometric_lib/blob/74c9d80940515a798d66c1a5df37b69dfabd4e8b/rectangle.py).
 3. Коммит [74c9d80](https://github.com/Maxzet2/geometric_lib/commit/74c9d80940515a798d66c1a5df37b69dfabd4e8b): в этом коммите добавлена документация.
+4. Коммит [735563b](https://github.com/Maxzet2/geometric_lib/commit/735563bc89baab7a801194a7c48c3772260a7f73): в этом коммите были добавлены тесты и результаты тество в документацию.
+5. Коммит [546c76f](https://github.com/Maxzet2/geometric_lib/commit/546c76f8773f3bcc4922d97b18b7971cb6e34543): в этом коммите был добавлен workflow.
